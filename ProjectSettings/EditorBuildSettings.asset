@@ -5,12 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/FoundryVR/Core/Scenes/Samples/Offline.unity
     guid: a50ce6b92b274ce409f15614db612193
-  - enabled: 1
+  - enabled: 0
     path: Assets/FoundryVR/Core/Scenes/Samples/Online.unity
     guid: c3a4e15f45d41194f888d6d422ae0b1b
+  - enabled: 1
+    path: Assets/TicTacToe/Scenes/TikTacToe.unity
+    guid: 5187a773fbd27e0479af965ce2b57359
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d1e616a9349926945a2b409e579d0eab, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2d7926164cd09734381e6f69fc480b2d, type: 2}
